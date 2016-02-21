@@ -1,0 +1,7 @@
+class: net.gtaun.shoebill.YSFWrapper
+name: YSF-Wrapper Plugin
+version: 1.0-SNAPSHOT
+buildNumber: 0
+buildDate: Unknown
+authors: 123marvin123
+description: This plugin is a wrapper for the YSF plugin (kurta999's version).
